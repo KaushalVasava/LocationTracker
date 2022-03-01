@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">LocationTracker</string>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB78nzDMPw_HmK3yiqvg-QPZNOIFUMJnZQ</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">API KEY</string>
 </resources>
